@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "holLow wORlD",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-18T12:51:07.630288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "holLow wORlD",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_holLow_wORlD_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "hoLlow wORlD",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_hoLlow_wORlD_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "holLow wORlD(Fate/hollow ataraxia edit) - Fate/Hollow Ataraxia Edit",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_holLow_wORlD(Fate_hollow_ataraxia_edit)_-_Fate_Hollow_Ataraxia_Edit_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hollow World(Fate/hollow ataraxia edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_Hollow_World(Fate_hollow_ataraxia_edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Hollow World",
+      "artist": "Johnny Hollow",
+      "has_synced": false,
+      "path": "select/05_This_Hollow_World_Johnny_Hollow.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "holLow wORlD (Live in BUDOKAN blanc et noir)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_holLow_wORlD_(Live_in_BUDOKAN_blanc_et_noir)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "holLow wORlD",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_holLow_wORlD_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hollow World (Fate_Hollow Ataraxia Edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_Hollow_World_(Fate_Hollow_Ataraxia_Edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "holLow wORlD",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_holLow_wORlD_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hollow World",
+      "artist": "The Wounded",
+      "has_synced": true,
+      "path": "select/10_Hollow_World_The_Wounded.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "holLow wORlD(Fatehollow ataraxia edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_holLow_wORlD(Fatehollow_ataraxia_edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "holLow wORlD (Fate／hollow ataraxia edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_holLow_wORlD_(Fate_hollow_ataraxia_edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "holLow wORlD",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_holLow_wORlD_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "holLow wORlD",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_holLow_wORlD_Aimer.txt"
+    }
+  ]
+}
